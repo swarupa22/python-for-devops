@@ -1,0 +1,80 @@
+[
+    {
+        "Date": "2025-01-01",
+        "Local_Holiday_Name": "New Year's Day",
+        "Holiday_Name": "New Year's Day",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-01-02",
+        "Local_Holiday_Name": "2 January",
+        "Holiday_Name": "2 January",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-03-17",
+        "Local_Holiday_Name": "Saint Patrick's Day",
+        "Holiday_Name": "Saint Patrick's Day",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-04-18",
+        "Local_Holiday_Name": "Good Friday",
+        "Holiday_Name": "Good Friday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-04-21",
+        "Local_Holiday_Name": "Easter Monday",
+        "Holiday_Name": "Easter Monday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-05-05",
+        "Local_Holiday_Name": "Early May Bank Holiday",
+        "Holiday_Name": "Early May Bank Holiday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-05-26",
+        "Local_Holiday_Name": "Spring Bank Holiday",
+        "Holiday_Name": "Spring Bank Holiday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-07-14",
+        "Local_Holiday_Name": "Battle of the Boyne",
+        "Holiday_Name": "Battle of the Boyne",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-08-04",
+        "Local_Holiday_Name": "Summer Bank Holiday",
+        "Holiday_Name": "Summer Bank Holiday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-08-25",
+        "Local_Holiday_Name": "Summer Bank Holiday",
+        "Holiday_Name": "Summer Bank Holiday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-12-01",
+        "Local_Holiday_Name": "Saint Andrew's Day",
+        "Holiday_Name": "Saint Andrew's Day",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-12-25",
+        "Local_Holiday_Name": "Christmas Day",
+        "Holiday_Name": "Christmas Day",
+        "Country": "GB"
+    },
+    {
+        "Date": "2025-12-26",
+        "Local_Holiday_Name": "Boxing Day",
+        "Holiday_Name": "St. Stephen's Day",
+        "Country": "GB"
+    }
+]
