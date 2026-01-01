@@ -1,0 +1,80 @@
+[
+    {
+        "Date": "2000-01-03",
+        "Local_Holiday_Name": "New Year's Day",
+        "Holiday_Name": "New Year's Day",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-01-04",
+        "Local_Holiday_Name": "2 January",
+        "Holiday_Name": "2 January",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-03-17",
+        "Local_Holiday_Name": "Saint Patrick's Day",
+        "Holiday_Name": "Saint Patrick's Day",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-04-21",
+        "Local_Holiday_Name": "Good Friday",
+        "Holiday_Name": "Good Friday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-04-24",
+        "Local_Holiday_Name": "Easter Monday",
+        "Holiday_Name": "Easter Monday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-05-01",
+        "Local_Holiday_Name": "Early May Bank Holiday",
+        "Holiday_Name": "Early May Bank Holiday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-05-29",
+        "Local_Holiday_Name": "Spring Bank Holiday",
+        "Holiday_Name": "Spring Bank Holiday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-07-12",
+        "Local_Holiday_Name": "Battle of the Boyne",
+        "Holiday_Name": "Battle of the Boyne",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-08-07",
+        "Local_Holiday_Name": "Summer Bank Holiday",
+        "Holiday_Name": "Summer Bank Holiday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-08-28",
+        "Local_Holiday_Name": "Summer Bank Holiday",
+        "Holiday_Name": "Summer Bank Holiday",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-11-30",
+        "Local_Holiday_Name": "Saint Andrew's Day",
+        "Holiday_Name": "Saint Andrew's Day",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-12-25",
+        "Local_Holiday_Name": "Christmas Day",
+        "Holiday_Name": "Christmas Day",
+        "Country": "GB"
+    },
+    {
+        "Date": "2000-12-26",
+        "Local_Holiday_Name": "Boxing Day",
+        "Holiday_Name": "St. Stephen's Day",
+        "Country": "GB"
+    }
+]
