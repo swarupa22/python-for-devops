@@ -1,4 +1,4 @@
-class log_analysis():
+class log_analysis:
     
     def __init__(self, log_file, output_file):
         self.log_file = log_file

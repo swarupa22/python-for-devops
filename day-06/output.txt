@@ -1,0 +1,14 @@
+
+=======================Log Analysis Summary Data=================================
+Count of INFO Messages in application log:178
+
+=======================Log Analysis Summary Data=================================
+Count of WARNING Messages in application log:81
+
+=======================Log Analysis Summary Data=================================
+Count of ERROR Messages in application log:41
+
+=======================Log Analysis Summary Data=================================
+Count of INFO Messages in application log:178
+Count of WARNING Messages in application log:81
+Count of ERROR Messages in application log:41
